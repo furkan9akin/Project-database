@@ -1,0 +1,2 @@
+token = ""
+DATABASE = "project.db"
